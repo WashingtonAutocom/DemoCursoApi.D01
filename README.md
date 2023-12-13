@@ -80,6 +80,8 @@ Temos 3 (três) tipos de usuários, *Administradores*, *Gerentes* e *Vendedores*
 	* Endpoint que lista todos usuários do Tipo Vendedores
 	* Endpoint que lista todos usuários do Tipo Gerentes
 	* Entpoint que lista todos usuários do Tipo Administradores
+ * Permissões de acesso
+        * Endpoint que lista todas as permissões de acesso para cada login de usuário
 
 
 # Diretrizes principais para projeto
@@ -130,6 +132,6 @@ Para desenvolvimento deste projeto será dado 36 (Trinta e Seis) horas para o de
 
 Ao final faremos uma call com todos para apresentação e explicação de cada projeto e apresentaremos a melhor proposta de funcionamento. 
 
-A melhor proposta e funcionamento terá um dia de folta entre o natal/2023 e ano novo/2024.
+A melhor proposta, codficação e aplicação será bem recebida. 
 
 Boas festas.
